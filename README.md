@@ -1,6 +1,6 @@
-# Backend NewsExploler
+# Backend Mesto
 
-Ссылка: [NewsExplorer Backend](https://api.mestoapp.ml/ "NewsExplorer Backend")
+Ссылка: [Mesto Backend](https://api.mestoapp.ml/ "Mesto Backend")
 Бэкенд проекта по размещению и хранению фотографий.
 Версия: v. 0.0.1
 
