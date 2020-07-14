@@ -1,6 +1,6 @@
 # Backend Mesto
 
-Ссылка: [Mesto Backend](https://api.mestoapp.ml/ "Mesto Backend")
+Ссылка: [Mesto Backend](https://api.mestoapp.ml/ "Mesto Backend"). 
 Бэкенд проекта по размещению и хранению фотографий.
 Версия: v. 0.0.1
 
